@@ -23,6 +23,7 @@ Results
 Conclusions based on Launch Date
 
   Based on the pivot table and line graph of outcomes based on the launch date, most successful months to launch a theater crowdfunding campaigns are May, June, and July.  Specifically, the month of May had more than double the number of successful campaigns as failed campaigns. From this, I can conclude that Louise should run her campaign in late spring or early summer to have the highest chance of success.
+  
   The number of successful campaigns drops significantly in late fall and winter for the dataset.  When looking at 2015, 2016, and 2017 specifically, the number of successful campaigns is actually lower than the number of failed campaigns for the months of October and December.  From this, I can conclude that Louise should not start her crowdfunding effort later in the year, as she will have a much lower chance of success.
  
 Conclusions based on Funding Goal 
